@@ -1,0 +1,12 @@
+.About{
+    font-size: 40px;
+    color:red;
+}
+
+.About p {
+    font-size: 15px;
+
+}
+.About a {
+    font-size: 12px;
+}
